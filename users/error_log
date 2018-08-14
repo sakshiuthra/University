@@ -1,0 +1,221 @@
+[09-Oct-2017 05:51:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 05:51:09 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 21
+[09-Oct-2017 05:51:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 05:51:38 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 21
+[09-Oct-2017 06:13:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:14:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:16:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:16:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:16:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:17:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:17:00 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 21
+[09-Oct-2017 06:18:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:18:15 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 21
+[09-Oct-2017 06:18:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:18:17 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 21
+[09-Oct-2017 06:19:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:19:26 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 21
+[09-Oct-2017 06:20:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 14
+[09-Oct-2017 06:20:12 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/import_file.php on line 21
+[11-Oct-2017 10:23:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/create_college.php on line 618
+[11-Oct-2017 10:23:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ssceorg/public_html/edu_helpline/edu_admin/college_filter/create_college.php on line 618
+[06-Feb-2018 06:56:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/connection.php on line 3
+[06-Feb-2018 06:56:57 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/nexgen_admin/users/new_coin.php on line 10
+[06-Feb-2018 06:56:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/common.php on line 56
+[06-Feb-2018 06:58:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/connection.php on line 3
+[06-Feb-2018 06:58:14 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/nexgen_admin/users/new_coin.php on line 10
+[06-Feb-2018 06:58:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/common.php on line 56
+[06-Feb-2018 06:59:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/connection.php on line 3
+[06-Feb-2018 06:59:39 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/nexgen_admin/users/new_coin.php on line 10
+[06-Feb-2018 06:59:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/common.php on line 56
+[06-Feb-2018 07:00:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/connection.php on line 3
+[06-Feb-2018 07:00:36 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/nexgen_admin/users/new_coin.php on line 10
+[06-Feb-2018 07:00:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/common.php on line 56
+[06-Feb-2018 07:00:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/connection.php on line 3
+[06-Feb-2018 07:00:38 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/nexgen_admin/users/new_coin.php on line 10
+[06-Feb-2018 07:00:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/nexgen_admin/includes/common.php on line 56
+[06-Feb-2018 07:48:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 07:48:32 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/new_coin.php on line 10
+[06-Feb-2018 07:48:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/admin/includes/common.php on line 56
+[06-Feb-2018 09:24:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:24:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/admin/includes/common.php on line 56
+[06-Feb-2018 09:29:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:29:09 UTC] PHP Notice:  Undefined variable: register_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 62
+[06-Feb-2018 09:29:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:29:10 UTC] PHP Notice:  Undefined variable: register_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 62
+[06-Feb-2018 09:29:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:29:13 UTC] PHP Notice:  Undefined variable: register_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 62
+[06-Feb-2018 09:29:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:33:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:34:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:35:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:48:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:48:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:50:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:50:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:53:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 09:59:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:05:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:06:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:09:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:14:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:15:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:24:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:24:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:54 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:25:58 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:58 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:58 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:58 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:58 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:25:58 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:26:00 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 10:26:00 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:00 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:00 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:00 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:00 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:00 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:26:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:08 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 10:26:10 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 10:26:10 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:10 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:10 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:10 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 10:26:10 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:01 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:11 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:11 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:11 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:11 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:11 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:11 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:13 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 12:06:13 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:13 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:13 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:13 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:13 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:13 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:18 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:18 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:18 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:18 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:18 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:21 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 12:06:21 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:21 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:21 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:21 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:21 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:24 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:24 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:24 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:24 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:27 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 12:06:27 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:27 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:27 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:27 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:31 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:31 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:31 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:33 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 12:06:33 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:33 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:33 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:40 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:40 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[06-Feb-2018 12:06:42 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[06-Feb-2018 12:06:42 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[06-Feb-2018 12:06:42 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[08-Feb-2018 03:55:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 03:55:54 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/new_coin.php on line 10
+[08-Feb-2018 03:55:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/j5b22oulhjmz/public_html/admin/includes/common.php on line 56
+[08-Feb-2018 10:00:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 10:00:06 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 10:00:06 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[08-Feb-2018 10:00:06 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[08-Feb-2018 10:01:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 10:01:46 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 10:01:46 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[08-Feb-2018 10:01:46 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[08-Feb-2018 10:02:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 10:02:09 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 10:02:09 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[08-Feb-2018 10:02:09 UTC] PHP Notice:  Undefined variable: coin_id in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 89
+[08-Feb-2018 10:03:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 10:03:05 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 10:03:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 10:03:46 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 10:03:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 10:03:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 10:03:57 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 11:26:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 11:26:55 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 11:27:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 11:27:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 11:27:06 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 11:27:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 11:27:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 11:27:12 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 11:27:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 11:27:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 11:27:17 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[08-Feb-2018 12:32:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[08-Feb-2018 12:32:39 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[09-Feb-2018 12:56:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[09-Feb-2018 12:56:50 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[13-Feb-2018 15:40:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[13-Feb-2018 15:40:12 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[25-Feb-2018 13:22:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[25-Feb-2018 13:22:56 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[25-Feb-2018 13:46:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[25-Feb-2018 13:46:21 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[25-Feb-2018 13:47:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[25-Feb-2018 13:47:17 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[25-Feb-2018 14:30:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[25-Feb-2018 14:30:52 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
+[30-Apr-2018 16:05:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/j5b22oulhjmz/public_html/admin/includes/connection.php on line 3
+[30-Apr-2018 16:05:45 UTC] PHP Notice:  Undefined index: val in /home/j5b22oulhjmz/public_html/admin/users/registered.php on line 12
